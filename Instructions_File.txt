@@ -1,0 +1,7 @@
+###This task is for CS391 HW2###
+
+Learn how to push, commits, add and create and edit branchs on terminal by:
+Add file question.txt and edit it with two questions and answers
+Add file random.txt
+
+
